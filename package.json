@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shubhamgit2003/ReactJBS/issues"
   },
-  "homepage": "https://github.com/shubhamgit2003/ReactJBS#readme"
+  "homepage": "https://github.com/shubhamgit2003/ReactJBS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
